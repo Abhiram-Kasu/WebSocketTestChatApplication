@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abhiramkasu/RiderProjects/WebSocketChatApplication/WebSocketChatApplication/WebSocketChatApplication.csproj": {}
+  },
+  "projects": {
+    "/Users/abhiramkasu/RiderProjects/WebSocketChatApplication/WebSocketChatApplication/WebSocketChatApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhiramkasu/RiderProjects/WebSocketChatApplication/WebSocketChatApplication/WebSocketChatApplication.csproj",
+        "projectName": "WebSocketChatApplication",
+        "projectPath": "/Users/abhiramkasu/RiderProjects/WebSocketChatApplication/WebSocketChatApplication/WebSocketChatApplication.csproj",
+        "packagesPath": "/Users/abhiramkasu/.nuget/packages/",
+        "outputPath": "/Users/abhiramkasu/RiderProjects/WebSocketChatApplication/WebSocketChatApplication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhiramkasu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+              "version": "[9.0.0, 9.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-arm64",
+              "version": "[9.0.0, 9.0.0]"
+            },
+            {
+              "name": "runtime.osx-arm64.Microsoft.DotNet.ILCompiler",
+              "version": "[9.0.0, 9.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-arm64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

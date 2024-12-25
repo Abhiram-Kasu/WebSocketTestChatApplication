@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DpEUepTGtM=",
+  "success": true,
+  "projectFilePath": "/Users/abhiramkasu/RiderProjects/WebSocketChatApplication/WebSocketChatApplication/WebSocketChatApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhiramkasu/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.0/microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512",
+    "/Users/abhiramkasu/.nuget/packages/microsoft.net.illink.tasks/9.0.0/microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "/Users/abhiramkasu/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/9.0.0/runtime.osx-arm64.microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512",
+    "/Users/abhiramkasu/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/9.0.0/microsoft.netcore.app.runtime.osx-arm64.9.0.0.nupkg.sha512",
+    "/Users/abhiramkasu/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/9.0.0/microsoft.aspnetcore.app.runtime.osx-arm64.9.0.0.nupkg.sha512",
+    "/Users/abhiramkasu/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/9.0.0/runtime.osx-arm64.microsoft.dotnet.ilcompiler.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

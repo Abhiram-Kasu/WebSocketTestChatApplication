@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VTLgC3SGfE9bp3tD5fsT/SBNjWlj95fQETXp+T0t+LU=",
+  "Source": "WebSocketChatApplication",
+  "BasePath": "_content/WebSocketChatApplication",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
